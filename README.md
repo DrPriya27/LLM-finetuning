@@ -1,5 +1,7 @@
 # LLM-finetuning
 
+https://www.linkedin.com/feed/update/urn:li:activity:7355228285615656960/
+
 I've watched many videos on fine-tuning LLMs this week, but these three stood out the most. If you have time for just one, watch the first one—it covers everything you need to know about fine-tuning and merging models.
 
 ► Video 1: Everything You Need to Know About Fine-tuning and Merging LLMs – A deep dive into fine-tuning techniques like LoRA, QLoRA, PPO, and DPO, presented by Maxime Labonne. Link: https://www.youtube.com/watch?v=uLrOI65XbDw
