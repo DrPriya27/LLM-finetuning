@@ -1,5 +1,7 @@
 # LLM-finetuning
 
+https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-would-like-to-get-your-hands-on-llm-activity-7295459477489672192-49Mu/?utm_source=share&utm_medium=member_android&rcm=ACoAAAe8D0cBW3NxXQaB93SNhHswReYjboBh_2k
+
 https://www.linkedin.com/feed/update/urn:li:activity:7355228285615656960/
 
 I've watched many videos on fine-tuning LLMs this week, but these three stood out the most. If you have time for just one, watch the first one—it covers everything you need to know about fine-tuning and merging models.
