@@ -12,6 +12,7 @@ Link: https://www.youtube.com/watch?v=t1caDsMzWBk
 ► Video 3: Fine-tuning Large Language Models (LLMs) | w/ Example Code – A hands-on walkthrough with Python code examples.
 Link: https://www.youtube.com/watch?v=eC6Hd1hFvos&t=1190s
 
+https://www.linkedin.com/posts/sigalshaked_slm-rlhf-grpo-activity-7299128135852212224-nq_N/?utm_source=share&utm_medium=member_android&rcm=ACoAAAe8D0cBW3NxXQaB93SNhHswReYjboBh_2k
 
 Here are the top 5 LLM fine-tuning techniques, explained with visuals:
 
@@ -38,7 +39,7 @@ Let's go! 🚀
 - Add two low-rank trainable matrices, A and B, alongside weight matrices.
 - Instead of fine-tuning W, adjust the updates in these low-rank matrices.
 
-Even for the largest of LLMs, LoRA matrices take up a few MBs of memory.
+Even for the largest of LLMs, LoRA matrices take up a few MBs of memory.1111111
 
 2) LoRA-FA
 
