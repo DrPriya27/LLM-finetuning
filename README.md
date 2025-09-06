@@ -1,5 +1,7 @@
 # LLM-finetuning
 
+https://www.linkedin.com/feed/update/urn:li:activity:7308536567277490179/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7308536567277490179%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29
+
 https://www.linkedin.com/posts/youssef-hosni-b2960b135_if-you-would-like-to-get-your-hands-on-llm-activity-7295459477489672192-49Mu/?utm_source=share&utm_medium=member_android&rcm=ACoAAAe8D0cBW3NxXQaB93SNhHswReYjboBh_2k
 
 https://www.linkedin.com/feed/update/urn:li:activity:7355228285615656960/
